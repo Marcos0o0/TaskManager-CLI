@@ -21,7 +21,7 @@ Un administrador de tareas simple y elegante desarrollado en C# para la línea d
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/task-manager-cli.git
+git clone https://github.com/Marcos0o0/TaskManager-CLI.git
 cd task-manager-cli
 ```
 
